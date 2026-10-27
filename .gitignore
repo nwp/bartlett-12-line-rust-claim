@@ -1,0 +1,4 @@
+safe_uaf
+unsafe_ptr
+*.o
+*.pdb
